@@ -31,7 +31,7 @@ This repository serves as a centralized portfolio of all my certifications, even
 ---
 
 <a name="portuguese"></a>
-## 🇧🇷 Versão em Português
+## Versão em Português
 
 Este repositório serve como um portfólio centralizado de todas as minhas certificações, participações em eventos e conquistas acadêmicas/profissionais. Ele reflete minha jornada de aprendizado contínuo e evolução técnica.
 
