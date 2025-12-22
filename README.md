@@ -24,7 +24,7 @@ This repository serves as a centralized portfolio of all my certifications, even
 ### 🏆 Highlighted Certifications
 | Course / Event | Institution | Link |
 | :--- | :--- | :--- | 
-| Computer Technician Integrated with High School | IFSP - Jacareí | [View Certificate](./COURSES/example.pdf) |
+| Computer Technician Integrated with High School | IFSP - Jacareí | [View Certificate](./EDUCATION/IFSP(2025).pdf) |
 
 [Back to top](#top)
 
@@ -46,7 +46,7 @@ Este repositório serve como um portfólio centralizado de todas as minhas certi
 ### 🏆 Certificações em Destaque
 | Curso / Evento | Instituição | Link |
 | :--- | :--- | :--- | 
-| Técnico em Informática Integrado ao Ensino Médio | IFSP - Jacareí | [Ver Certificado](./EDUCATION/exemplo.pdf) |
+| Técnico em Informática Integrado ao Ensino Médio | IFSP - Jacareí | [Ver Certificado](./EDUCATION/IFSP(2025).pdf) |
 
 [Voltar ao topo](#top)
 
