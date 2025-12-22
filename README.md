@@ -49,9 +49,3 @@ Este repositório serve como um portfólio centralizado de todas as minhas certi
 | Técnico em Informática Integrado ao Ensino Médio | IFSP - Jacareí | [Ver Certificado](./EDUCATION/IFSP(2025).pdf) |
 
 [Voltar ao topo](#top)
-
----
-
-## 🔗 Contact | Contato
-* **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/seu-usuario/)
-* **Email:** gdepaulabaroni@gmail.com
